@@ -1,0 +1,16 @@
+[project]
+name = "bookstore_service"
+authors = [
+    {name = "bllli", email = "bllli-cn@outlook.com"},
+]
+license = {file = "LICENSE",text = "MIT"}
+classifiers = ["License :: OSI Approved :: MIT License"]
+dynamic = ["version", "description"]
+version = "0.1.0"
+description = ""
+dependencies = []
+requires-python = ">=3.11"
+readme = "README.md"
+
+[project.urls]
+Home = "https://github.com/bllli/bookstore-service"
